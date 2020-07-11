@@ -1,0 +1,9 @@
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Zarifo\Projects\MicroRabbit\domain\bin\Debug\netstandard2.0\MicroRabbit.Domain.Core.deps.json
+C:\Zarifo\Projects\MicroRabbit\domain\bin\Debug\netstandard2.0\MicroRabbit.Domain.Core.dll
+C:\Zarifo\Projects\MicroRabbit\domain\bin\Debug\netstandard2.0\MicroRabbit.Domain.Core.pdb
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.dll
+C:\Zarifo\Projects\MicroRabbit\domain\obj\Debug\netstandard2.0\MicroRabbit.Domain.Core.pdb

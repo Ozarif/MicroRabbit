@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wfnzb5zyOhbNFc2oGl7pBMUx+21XFn71IMvt/POD+jecRrEeX5yFtXVGNEjAglXFNWBUeujawLjCYG5rpL6jPQ==",
+  "success": true,
+  "projectFilePath": "C:\\zarifo\\projects\\MicroRabbit\\Domain\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZarifO\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\ZarifO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZarifO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
